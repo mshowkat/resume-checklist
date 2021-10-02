@@ -1,5 +1,3 @@
-Part of Udemy Course on Mastering the Coding Interview
-
 **Resume Cheat Sheet**
 ---------------
 
